@@ -1,0 +1,13 @@
+{
+    "nome": "Alex",
+    "idade": 26,
+    "filhos": null,
+    "hobbies": ["Codar", "Jogar", "Tocar"],
+    "casado": true,
+    "empresas": {
+        "devclub": {
+            "fundada": 2021,
+            "colaboradores": 40
+        }
+    }
+}
